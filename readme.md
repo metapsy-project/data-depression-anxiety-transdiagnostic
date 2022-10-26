@@ -1,6 +1,7 @@
 ## **The `data-transdiagnostic-depression-anxiety` dataset** 📊 
 
 
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7243836-blue">](https://dx.doi.org/10.5281/zenodo.7243836)
 
 The `data-transdiagnostic-depression-anxiety` dataset is part of the meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) on psychotherapy for depression/anxiety. This MARD is part of the [Metapsy project](https://www.metapsy.org/). The dataset contains study information and effect size data of transdiagnostic psychological interventions for depression and anxiety. The date of the last search update is provided [here](https://github.com/metapsy-project/data-transdiagnostic-depression-anxiety/blob/main/metadata/last_search.txt). 
 
